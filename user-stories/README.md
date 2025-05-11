@@ -1,5 +1,4 @@
 # User Stories Documentation
-![User Stories](./user-stories.png)
 
 ## Overview
 This section contains detailed user stories that define the requirements and expected behaviors for the Airbnb Clone project from various user perspectives. These stories help guide development by capturing user needs and acceptance criteria.
